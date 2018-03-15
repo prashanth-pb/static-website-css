@@ -1,0 +1,326 @@
+body {
+    font-family: Calibri, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+#firstbox {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left: 416.5px;
+    /*! margin-right: 466.5px; */
+    margin-top: 50px;
+    padding: 50px;
+    height: 160px;
+    width:350px;
+    letter-spacing: 2px;
+}
+
+#num {
+    border-bottom: 3px solid white;    
+    font-size: 3em;
+    position: absolute;
+   /* margin-left: -10px; */
+}
+
+#thirteen {
+    font-size: 6em;
+    margin-left: 100px;
+}
+
+hr {
+    height: 0.1px;
+    background-color: white;
+    
+}
+
+#teen:link {
+    text-decoration: none;
+    color: white;
+}
+
+#teen:visited {
+    color: white;
+}
+
+#image {
+    /* background-color: red; */
+    margin-top: 30px;
+    height: 125px;
+    width:10px;
+ /*   transform: rotate(-3deg); */
+}
+
+#question {
+    text-align: center;
+    width: 450px;
+    color: darkgoldenrod;
+    /* background-color: yellow; */
+    margin-left: 421.5px;
+    position: absolute;
+    margin-top: -42px;
+    letter-spacing: 4px;
+}
+
+#getback {
+    width: 810px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-left: 236.5px;
+    margin-top: 35px;
+}
+
+#button {
+    text-align: center;
+    border: 2px solid black;
+    width: 300px;
+    letter-spacing: 2px;
+    margin-left: 491.5px;
+    margin-top: 40px;
+}
+
+#touch:link {
+    text-decoration: none;
+    color: black;
+}
+
+#touch:visited {
+    color: black;
+}
+
+#touch:hover {
+    color: white;
+}
+
+#button:hover {
+    background-color: black;
+}
+#read {
+    text-align: center;
+    float: left;
+    margin-top: 100px;
+    background-color: black;
+    color: white;
+    width: 491.5px;
+    /* border-right: 0.5px solid white; */
+    letter-spacing: 3px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 0.8em;
+}
+
+
+#signup {
+    text-align: center;
+    margin-top:  100px;
+    width: 790.5px;
+    margin-left: 492.5px;
+    color: goldenrod;
+    background-color: black;
+    padding-top: 60px;
+    padding-bottom: 92.8px;
+}
+
+#signpara {
+ /*   padding-left: -50px; */
+    width: 400px;
+    letter-spacing: 1px;
+    font-size: 0.8em;
+}
+
+#email {
+    float: left;
+    width: 240px;
+    margin-left: 90px;
+    height: 40px;
+    color: grey;
+    border: none;
+    padding-left: 8px;
+}
+
+#button2 {
+    width: 200px;
+    margin-left: 340px;
+    margin-top: -8px;
+    height: 48px;
+    text-align: center;
+    border: 2px solid white;
+    color: white;
+    letter-spacing: 2px;
+}
+
+#link2:link {
+    text-decoration: none;
+    color: white;
+}
+
+#link:visited {
+    color: white;
+}
+
+#last {
+    color: white;
+}
+
+.golden {
+    color: darkgoldenrod;
+}
+
+
+#hq {
+    padding-top: 20px;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+}
+
+#ed {
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+}
+
+#address {
+    font-size: 0.9em;
+    line-height: 25px;
+}
+
+#column1 {
+    width: 250px;
+    float: left;
+    background-color: black;
+    margin-top: 1px;
+    padding-left: 50px;
+    padding-top: 1px;
+    height: 467px;
+}
+
+#column2 {
+    width: 191.5px;
+    float: left;
+    background-color: black;
+    margin-top: 1px;
+    margin-left: 280px;
+    padding-top: 151px;
+    padding-left: 20px;
+    height: 317px;
+    font-size: 0.9em;
+    position: absolute;
+}
+
+#link3:link {
+    color: white;
+}
+
+#link3:visited {
+    color: white;
+}
+    
+#button3 {
+    width: 190px;
+    height: 38px;
+    text-align: center;
+    padding-bottom: 9px;
+    border: 2px solid white;
+    color: white;
+    letter-spacing: 4px;
+    margin-top: 70px;
+}
+
+#link4:link {
+    text-decoration: none;
+    color: white;
+}
+
+#link4:visited {
+    color: white;
+}
+
+#column3 {
+    float: left;
+    position: absolute;
+    background-color: black;
+    margin-top: 1px;
+    margin-left: 492px;
+    padding-left: 20px;
+    width: 250px;
+    padding-bottom: 91px;
+}
+
+#column4 {
+    float: left;
+    position: absolute;
+    margin-left: 762px;
+    padding-left: 20px;
+    background-color: black;
+    margin-top: 1px;
+    width: 250px;
+    padding-bottom: 91px;
+}
+
+#column5 {
+    float: left;
+    position: absolute;
+    margin-left: 1030px;
+    background-color: black;
+    margin-top: 1px;
+    padding-left: 10px;
+    width: 243px;
+    padding-bottom: 91px;
+}
+
+#offices {
+    padding-top: 20px;
+    margin-bottom: 40px;
+    letter-spacing: 2px;
+}
+
+#ny {
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+}
+
+#addressc3 {
+    font-size: 0.9em;
+    line-height: 25px;
+}
+
+.telemail {
+    font-size: 0.9em;
+    margin-top: 70px;
+}
+
+#london {
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    margin-top: 95px;
+}
+
+#addressc4 {
+    font-size: 0.9em;
+    line-height: 25px;
+}
+
+#man {
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+    margin-top: 95px;
+}
+
+#addressc5 {
+    font-size: 0.9em;
+    line-height: 25px;
+}
+
+#link5:link {
+    color: white;
+}
+
+#link6:link {
+    color: white;
+}
+
+#link7:link {
+    color: white;
+}
